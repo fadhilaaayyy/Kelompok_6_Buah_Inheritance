@@ -5,7 +5,7 @@
 
 /**
  *
- * @author FADHILA
+ 
  */
 public class Melon extends Buah{
    String tekstur_buah;
