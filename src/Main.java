@@ -41,20 +41,20 @@ public class Main {
         
         Pisang ps = new Pisang();
 
-        ps.setNama("\n\t\t\tpisang");
+        ps.setNama("Pisang");
         ps.setWarna("kuning");
         ps.setBentuk("melengkung");
         ps.setRasa("manis");
         ps.setUkuran("bervariasi, sekitar 10-20 cm");
         ps.setBentuk_kulit("berbentuk panjang dan melengkung");
 
-        System.out.println("\n\t\t\tpisang");
+        System.out.println("\n\t\t\tPisang");
         System.out.println("Nama              : " + ps.getNama());
         System.out.println("Warna             : " + ps.getWarna());
         System.out.println("Bentuk            : " + ps.getBentuk());
         System.out.println("Rasa              : " + ps.getRasa());
         System.out.println("Ukuran            : " + ps.getUkuran());
-        System.out.println("berbentuk panjang dan melengkung           : " + ps.getBentuk_kulit());
+        System.out.println("Bentuk Kulit     : " + ps.getBentuk_kulit());
         
         JambuGelas jm = new JambuGelas();
 
