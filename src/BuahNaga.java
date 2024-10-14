@@ -5,7 +5,7 @@
 
 /**
  *
- * @author FADHILA
+ * @author Rina
  */
 public class BuahNaga extends Buah{
     String bentuk_kulit;
