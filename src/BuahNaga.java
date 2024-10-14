@@ -3,10 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author Rina
- */
+
 public class BuahNaga extends Buah{
     String bentuk_kulit;
 
